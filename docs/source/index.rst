@@ -14,6 +14,7 @@ Contents:
    install
    uboot
    kernel
+   rootfs_debian
    usb
    software
    network
